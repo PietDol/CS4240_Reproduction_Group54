@@ -8,4 +8,5 @@ Authors:
 - Luca Goemans (4954645)
 
 ## Run the code
-All the code is made in Kaggle. We do different things for the project and all are made in a different notebook. Those different notebooks can be find in this repository. Our results can be reproduced by running our notebooks in Kaggle. Make sure that you have the right folders and upload the utility script in the notebook.
+All the code is made in Kaggle. We do different things for the project and all are made in a different notebook. Those different notebooks can be find in this repository. Our results can be reproduced by running our notebooks in Kaggle. Make sure that you have the right folders and upload the utility script in the notebook. We use the following architecture:
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/PietDol/CS4240_Reproduction_Group54/blob/main/kaggle_directory.png))
